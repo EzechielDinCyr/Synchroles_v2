@@ -1,0 +1,15 @@
+{
+  "name": "synchroles_v2",
+  "version": "0.0.0",
+  "description": "Discord bot for Synchrôles v2",
+  "license": "ISC",
+  "author": "EzechielDinCyr",
+  "type": "module",
+  "main": "bot.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.27.0"
+  }
+}
