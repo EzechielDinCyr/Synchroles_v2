@@ -1,5 +1,5 @@
-import { feur } from "./custom_modules/test.ts";
+import auth from "./auth.json" with { type: "json" };
 
-export const lol = 0;
+export const settings = auth;
 
-console.log(feur);
+console.log(settings);
